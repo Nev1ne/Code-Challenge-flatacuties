@@ -1,7 +1,6 @@
 # Code-Challenge-flatacuties
 Today you'll be building an app for voting for the cutest animal! You will be
 using a local API and building out the frontend for our app, Flatacuties.
-
 ## Demo
 
 @@ -46,13 +46,13 @@ As a user, I can:
